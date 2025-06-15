@@ -1,0 +1,5 @@
+gender,age,admission_type,num_lab_procedures,num_medications,time_in_hospital,readmitted
+Male,55,Emergency,45,13,5,No
+Female,63,Elective,31,9,3,Yes
+Male,40,Emergency,42,15,6,No
+Female,70,Emergency,36,10,4,Yes
